@@ -82,7 +82,7 @@ import com.mihir.react.tts.*; // Import package
                 console.log(error)
             });
 
-            ```
+```
 
 
 
@@ -94,12 +94,13 @@ Execution failed for task ':app:processDebugManifest'.
         is also present at [:react-native-android-speech] AndroidManifest.xml:12:9-35 value=(true).
         Suggestion: add 'tools:replace="android:allowBackup"' to <application> element at AndroidManifest.xml:7:5-24:19 to override.
 
-        ```
+
+```
 
 Chnage false to true :
 
 ```
-...
+    ...
     <application
       android:name=".MainApplication"
       android:label="@string/app_name"
@@ -109,4 +110,4 @@ Chnage false to true :
       ....
 
 
-    ```
+```
