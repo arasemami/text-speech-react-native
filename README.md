@@ -1,3 +1,5 @@
 # text speech react native
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Text Speech React Native")
+Only For Android
+
+![alt text](https://raw.githubusercontent.com/arasemami/text-speech-react-native/master/src/img/bg.png "Text Speech React Native")
