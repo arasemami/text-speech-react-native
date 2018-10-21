@@ -42,7 +42,7 @@ dependencies {
 ```
 
 ```
-register module (in MainActivity.java)
+register module (in MainApplication.java)
 ```
 
 ```
